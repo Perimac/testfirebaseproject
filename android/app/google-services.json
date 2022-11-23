@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "21893245153",
+    "project_id": "arrant-services-delivery-app",
+    "storage_bucket": "arrant-services-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21893245153:android:4c896d76af96a6f5c52fa0",
+        "android_client_info": {
+          "package_name": "com.example.arrant_mobile_app_rider_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21893245153-0sbgk14slmt8trsm818fmp72ep0r1cdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arrant_mobile_app_rider_v1",
+            "certificate_hash": "92de58ab29ef7d59e1cf0a510b9cb3c237598f3a"
+          }
+        },
+        {
+          "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSymrpPIlYm_9jEmhWxwEEPTO4NR_voI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21893245153-2m02c870vp7tfvn0og0r7raefjf9h7tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrantMobileAppV1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21893245153:android:fe2248150d8d7835c52fa0",
+        "android_client_info": {
+          "package_name": "com.example.arrant_mobile_app_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21893245153-5qe7mpod64ipt2p37rqs4br7q0tg43fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arrant_mobile_app_v1",
+            "certificate_hash": "66d37c9067e1eb63201d0c039593bc863a3a8617"
+          }
+        },
+        {
+          "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSymrpPIlYm_9jEmhWxwEEPTO4NR_voI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21893245153-2m02c870vp7tfvn0og0r7raefjf9h7tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrantMobileAppV1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21893245153:android:6de7e5121dca0da5c52fa0",
+        "android_client_info": {
+          "package_name": "testproj.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSymrpPIlYm_9jEmhWxwEEPTO4NR_voI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21893245153-kucgccj7bcd7a5vpl67rno6vhm4f8ggb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21893245153-2m02c870vp7tfvn0og0r7raefjf9h7tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrantMobileAppV1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
